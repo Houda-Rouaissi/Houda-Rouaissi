@@ -1,7 +1,6 @@
-##  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcodeit-official-coding-helloworld-codeit-gf675azxNAz2zDQ1vD&psig=AOvVaw03ACdCoNhfBO5QQq4Rk3V4&ust=1610993926986000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCf3JrKo-4CFQAAAAAdAAAAABAe" width="50"> , I'm Houda !</h3>
+##  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="50"> , I'm Houda !</h3>
 
-### 🔭 I’m currently working on RebootKamp Tunisia as a JavaScript Instructor ✌️ 
-<img src="https://media.giphy.com/media/TfSJ4EZlt6HKUCr7F2/giphy.gif" width="50"> 
+### 🔭 I’m currently working on RebootKamp Tunisia as a JavaScript Instructor ✌️ <img src="https://media.giphy.com/media/TfSJ4EZlt6HKUCr7F2/giphy.gif" width="50"> 
 
 
 

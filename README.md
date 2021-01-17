@@ -1,6 +1,6 @@
-##  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="50"> , I'm Houda !</h3>
+##  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="100"> , I'm Houda !</h3>
 
-### 🔭 I’m currently working on RebootKamp Tunisia as a JavaScript Instructor ✌️ <img src="https://media.giphy.com/media/TfSJ4EZlt6HKUCr7F2/giphy.gif" width="50"> 
+### 🔭 I’m currently working on RebootKamp Tunisia as a JavaScript Instructor ✌️ <img src="https://media.giphy.com/media/TfSJ4EZlt6HKUCr7F2/giphy.gif" width="100"> 
 
 
 

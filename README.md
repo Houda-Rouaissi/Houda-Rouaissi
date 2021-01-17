@@ -1,5 +1,13 @@
-###  Welcome on my profile 😄 , my name is Houda 
-## 🔭 I’m currently working on RebootKamp Tunisia as a JavaScript Instructor ✌️
+<h3>  Welcome on my profile <img src="https://media.giphy.com/media/l3q2GDh3wQqVWSiGY/giphy.gif" width="50"> , I'm Houda !</h3>
+
+<h1> 🔭 I’m currently working on RebootKamp Tunisia as a JavaScript Instructor ✌️ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50"> </h1>
+
+
+
+### <img src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif" width="50"> A little more about me ...  
+
+[![Linkedin: inkedin.com/in/houdarouaissi](https://img.shields.io/badge/-inkedin.com/in/houdarouaissi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inkedin.com/in/houdarouaissi/)](https://www.linkedin.com/in/inkedin.com/in/houdarouaissi/)
+[![GitHub Houda-Rouaissi](https://img.shields.io/github/followers/Houda-Rouaissi?label=follow&style=social)](https://github.com/Houda-Rouaissi)
 
 <!--
 **Houda-Rouaissi/Houda-Rouaissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

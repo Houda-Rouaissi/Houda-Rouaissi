@@ -1,9 +1,10 @@
-<h3>  I'm Houda ! <img src="https://giphy.com/gifs/mFXl22xsJfwpWyxl8d/html5" width="80">  </h3>
+<h3>  I'm Houda ! <img src="https://media.giphy.com/media/mFXl22xsJfwpWyxl8d/giphy.gif" width="80">  </h3>
 
 ### 🔭 I’m currently working on RebootKamp Tunisia as a JavaScript Instructor ✌️ 
 
 
 
+## Want to connect ? 
 [![Linkedin: houdarouaissi](https://img.shields.io/badge/-houdarouaissi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/houdarouaissi/)](https://www.linkedin.com/in/houdarouaissi/)
 [![GitHub Houda-Rouaissi](https://img.shields.io/github/followers/Houda-Rouaissi?label=follow&style=social)](https://github.com/Houda-Rouaissi)
 

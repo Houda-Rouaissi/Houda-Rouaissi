@@ -1,11 +1,12 @@
-##  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="80"> , I'm Houda !</h3>
+<h3>  I'm Houda ! <img src="https://giphy.com/gifs/mFXl22xsJfwpWyxl8d/html5" width="80">  </h3>
 
-### 🔭 I’m currently working on RebootKamp Tunisia as a JavaScript Instructor ✌️ <img src="https://media.giphy.com/media/TfSJ4EZlt6HKUCr7F2/giphy.gif" width="100"> 
+### 🔭 I’m currently working on RebootKamp Tunisia as a JavaScript Instructor ✌️ 
 
 
 
-[![Linkedin: inkedin.com/in/houdarouaissi](https://img.shields.io/badge/-inkedin.com/in/houdarouaissi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inkedin.com/in/houdarouaissi/)](https://www.linkedin.com/in/inkedin.com/in/houdarouaissi/)
+[![Linkedin: houdarouaissi](https://img.shields.io/badge/-houdarouaissi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/houdarouaissi/)](https://www.linkedin.com/in/houdarouaissi/)
 [![GitHub Houda-Rouaissi](https://img.shields.io/github/followers/Houda-Rouaissi?label=follow&style=social)](https://github.com/Houda-Rouaissi)
+
 
 <!--
 **Houda-Rouaissi/Houda-Rouaissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

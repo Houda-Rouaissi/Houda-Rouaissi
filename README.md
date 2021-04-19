@@ -2,7 +2,8 @@
 <img align="left" src="https://media.giphy.com/media/mFXl22xsJfwpWyxl8d/giphy.gif" width="100"> 
 <h3 align="center"> Full-stack JavaScript Developer </h3>
 
-
+<br >
+<br >
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Houda-Rouaissi" alt="Houda-Rouaissi" /></a> </p>
 
 <div align="center">

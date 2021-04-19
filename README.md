@@ -32,12 +32,12 @@
 <br/>
 
 
-<h3 align="center"> want to connect?  </h3> 
+<h3> want to connect?  </h3> 
 
 [![Linkedin: houdarouaissi](https://img.shields.io/badge/-houdarouaissi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/houdarouaissi/)](https://www.linkedin.com/in/houdarouaissi/)
 [![GitHub Houda-Rouaissi](https://img.shields.io/github/followers/Houda-Rouaissi?label=follow&style=social)](https://github.com/Houda-Rouaissi)
 
-<h3>Used Technologies : </h3>
+<h3 align="center">Used Technologies : </h3>
 
 <br/>
 <div align="center">

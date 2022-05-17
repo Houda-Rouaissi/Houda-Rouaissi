@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working in [RBK Tunisa](https://www.rebootkamp.net/)
 
-- 📫 How to reach me **houda.rouaissi@rbk.tn**
+- 📫 How to reach me **houdarouaissi@gmail.com**
 
 <br/>
 

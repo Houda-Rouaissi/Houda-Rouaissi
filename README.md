@@ -24,13 +24,7 @@
 
 
 
-<br/>
 
-- 🔭 I’m currently working in [RBK Tunisa](https://www.rebootkamp.net/)
-
-- 📫 How to reach me **houdarouaissi@gmail.com**
-
-<br/>
 
 <h3 align="center">Used Technologies : </h3>
 

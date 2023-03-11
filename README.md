@@ -1,7 +1,7 @@
-<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Welcome to my GitHub Profile! <br> I'm Houda Rouaissi ! 
+<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Welcome to my GitHub Profile! <br> 
 <img align="left" src="https://media.giphy.com/media/mFXl22xsJfwpWyxl8d/giphy.gif" width="100"> 
-<h3 align="center"> Full-stack JavaScript Developer </h3>
 
+<p> <em>I'm a passionate Web Developer with expertise in front-end development, back-end development, and everything in between. I love building dynamic and responsive web applications that provide a great user experience.</em></p>
 <h3 align="center">Used Technologies : </h3>
 
 <br/>
@@ -10,21 +10,19 @@
 </div>
 
 <div align="center">
-<h3> want to connect?  </h3> 
+<em><b> If you're interested in collaborating on a project or have any questions about my work, please don't hesitate to get in touch.I'm always looking for new opportunities to grow and contribute to the web development community. </b></em>
 
 [![Linkedin: houdarouaissi](https://img.shields.io/badge/-houdarouaissi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/houdarouaissi/)](https://www.linkedin.com/in/houdarouaissi/)
 [![GitHub Houda-Rouaissi](https://img.shields.io/github/followers/Houda-Rouaissi?label=follow&style=social)](https://github.com/Houda-Rouaissi)
 
 </div>
   
-<div align="center">
+<div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thank you for visiting my GitHub profile, and I look forward to hearing from you!</b> :)</em>
 
+![Houda's github stats](https://github-readme-stats.vercel.app/api?username=Houda-Rouaissi&count_private=true&theme=blue-green&hide=contribs,prs)
 
-<br >
-
-  ![Houda's github stats](https://github-readme-stats.vercel.app/api?username=Houda-Rouaissi&count_private=true&theme=blue-green&hide=contribs,prs)
-
-  ![Houda's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Houda-Rouaissi&theme=blue-green)
+![Houda's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Houda-Rouaissi&theme=blue-green)
 
 </div>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Houda-Rouaissi" alt="Houda-Rouaissi" /></a> </p> -->

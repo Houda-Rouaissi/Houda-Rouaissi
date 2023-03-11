@@ -1,7 +1,9 @@
-<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Welcome to my GitHub Profile! <br> 
+<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Welcome to my GitHub Profile! <br/> 
 <img align="left" src="https://media.giphy.com/media/mFXl22xsJfwpWyxl8d/giphy.gif" width="100"> 
 
 <p> <em>I'm a passionate Web Developer with expertise in front-end development, back-end development, and everything in between. I love building dynamic and responsive web applications that provide a great user experience.</em></p>
+  
+  <br/>
 <h3 align="center">Used Technologies : </h3>
 
 <br/>
@@ -20,9 +22,9 @@
 <div>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thank you for visiting my GitHub profile, and I look forward to hearing from you!</b> :)</em>
 
-![Houda's github stats](https://github-readme-stats.vercel.app/api?username=Houda-Rouaissi&count_private=true&theme=blue-green&hide=contribs,prs)
+<!-- ![Houda's github stats](https://github-readme-stats.vercel.app/api?username=Houda-Rouaissi&count_private=true&theme=blue-green&hide=contribs,prs)
 
-![Houda's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Houda-Rouaissi&theme=blue-green)
+![Houda's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Houda-Rouaissi&theme=blue-green) -->
 
 </div>
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Houda-Rouaissi" alt="Houda-Rouaissi" /></a> </p> -->
+

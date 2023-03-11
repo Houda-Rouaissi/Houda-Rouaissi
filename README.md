@@ -13,7 +13,10 @@
 </div>
 
 <div align="center">
- ![Houda's github stats](https://github-readme-stats.vercel.app/api?username=Houda-Rouaissi&count_private=true&theme=blue-green&hide=contribs,prs) ![Houda's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Houda-Rouaissi&theme=blue-green)
+ <div>
+ ![Houda's github stats](https://github-readme-stats.vercel.app/api?username=Houda-Rouaissi&count_private=true&theme=blue-green&hide=contribs,prs)
+ ![Houda's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Houda-Rouaissi&theme=blue-green)
+ </div>
 <em><b> If you're interested in collaborating on a project or have any questions about my work, please don't hesitate to get in touch.I'm always looking for new opportunities to grow and contribute to the web development community. </b></em>
 
 [![Linkedin: houdarouaissi](https://img.shields.io/badge/-houdarouaissi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/houdarouaissi/)](https://www.linkedin.com/in/houdarouaissi/)

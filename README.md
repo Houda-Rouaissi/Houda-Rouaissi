@@ -2,16 +2,8 @@
 <img align="left" src="https://media.giphy.com/media/mFXl22xsJfwpWyxl8d/giphy.gif" width="100"> 
 <h3 align="center"> Full-stack JavaScript Developer </h3>
 
-<br >
-<br >
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Houda-Rouaissi" alt="Houda-Rouaissi" /></a> </p>
-
 <div align="center">
-<details>
 
-<summary>
-  Github Stats
-</summary>
 
 <br >
 
@@ -19,12 +11,7 @@
 
   ![Houda's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Houda-Rouaissi&theme=blue-green)
 
-</details>
 </div>
-
-
-
-
 
 <h3 align="center">Used Technologies : </h3>
 
@@ -42,17 +29,5 @@
 [![GitHub Houda-Rouaissi](https://img.shields.io/github/followers/Houda-Rouaissi?label=follow&style=social)](https://github.com/Houda-Rouaissi)
 
 </div>
-<!--
-**Houda-Rouaissi/Houda-Rouaissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Houda-Rouaissi" alt="Houda-Rouaissi" /></a> </p>

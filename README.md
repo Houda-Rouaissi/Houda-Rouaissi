@@ -14,8 +14,11 @@
 
 <div align="center">
  <div>
+  
  ![Houda's github stats](https://github-readme-stats.vercel.app/api?username=Houda-Rouaissi&count_private=true&theme=blue-green&hide=contribs,prs)
+  
  ![Houda's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Houda-Rouaissi&theme=blue-green)
+  
  </div>
 <em><b> If you're interested in collaborating on a project or have any questions about my work, please don't hesitate to get in touch.I'm always looking for new opportunities to grow and contribute to the web development community. </b></em>
 

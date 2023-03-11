@@ -20,12 +20,12 @@
 
 </div>
   
-<div>
+<!-- <div>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thank you for visiting my GitHub profile, and I look forward to hearing from you!</b> :)</em>
 
-<!-- ![Houda's github stats](https://github-readme-stats.vercel.app/api?username=Houda-Rouaissi&count_private=true&theme=blue-green&hide=contribs,prs)
+![Houda's github stats](https://github-readme-stats.vercel.app/api?username=Houda-Rouaissi&count_private=true&theme=blue-green&hide=contribs,prs)
 
-![Houda's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Houda-Rouaissi&theme=blue-green) -->
+![Houda's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Houda-Rouaissi&theme=blue-green)
 
-</div>
+</div> -->
 
